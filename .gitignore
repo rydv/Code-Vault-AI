@@ -1,0 +1,37 @@
+client/.env
+api/.env
+client/node_modules
+api/node_modules
+code-vault-ai/data
+*.pyc
+__pycache__/
+.env
+*.db
+# Start Generation Here
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.DS_Store
+*.env
+*.local
+*.zip
+*.tar
+*.gz
+*.tgz
+*.rar
+*.7z
+*.tgz
+*.egg-info/
+node_modules/
+dist/
+build/
+coverage/
+*.tgz
+*.lock
+*.venv/
+*venv/
+*data/
+# End Generation Here
+

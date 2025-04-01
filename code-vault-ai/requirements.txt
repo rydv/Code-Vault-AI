@@ -1,0 +1,6 @@
+sentence-transformers>=2.2.2
+pandas
+numpy
+tiktoken
+tqdm
+python-dotenv 
